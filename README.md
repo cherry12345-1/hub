@@ -1,2 +1,2 @@
 # hub
-hub repo for practice
+hub repo for git practice
